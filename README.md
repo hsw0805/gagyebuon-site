@@ -1,9 +1,9 @@
-# 오순 가계부 소개 페이지
+# 가계부온 소개 페이지
 
-「오순 가계부」(오순도순 함께 쓰는 가계부)를 소개하는 웹페이지예요. 파일은 `index.html` 하나이고, 글꼴·그림·꾸밈이 모두 안에 들어 있어서 바깥에서 받아 오는 것이 없어요.
+「가계부온」(숨은 아낄 돈까지 찾아 주는 가계부)을 소개하는 웹페이지예요. 파일은 `index.html` 하나이고, 글꼴·그림·꾸밈이 모두 안에 들어 있어서 바깥에서 받아 오는 것이 없어요.
 
-- 앱 쓰러 가기: https://family-ledger.expo.app
-- 계정 지우기: https://family-ledger.expo.app/delete-account
+- 앱 쓰러 가기: https://gagyebuon.com
+- 계정 지우기: https://gagyebuon.com/delete-account
 
 ## 기능이 새로 나오면
 
