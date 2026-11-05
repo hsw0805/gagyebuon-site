@@ -1,29 +1,8 @@
-# 가계부온 소개 페이지
+# 가계부온 — 옛 소개 페이지 주소
 
-「가계부온」(숨은 아낄 돈까지 찾아 주는 가계부)을 소개하는 웹페이지예요. 파일은 `index.html` 하나이고, 글꼴·그림·꾸밈이 모두 안에 들어 있어서 바깥에서 받아 오는 것이 없어요.
+소개 페이지와 개인정보처리방침은 2026-11-05 **gagyebuon.com** 안으로 옮겼어요. 여기 두 파일은 새 주소로 넘겨 주는 안내판이에요.
 
-- 앱 쓰러 가기: https://gagyebuon.com
-- 계정 지우기: https://gagyebuon.com/delete-account
+- 소개: https://gagyebuon.com/intro
+- 개인정보처리방침: https://gagyebuon.com/privacy
 
-## 기능이 새로 나오면
-
-`index.html` 안에 기능 목록이 두 개 있어요.
-
-- `<ul class="features" id="now">` — 지금 되는 것
-- `<ul class="features" id="soon">` — 곧 나와요
-
-기능 하나는 `<li> … </li>` 한 줄이에요. 그 기능이 나오면 **그 줄을 통째로 잘라 `id="now"` 목록에 붙이면 끝**이에요. 「준비 중」 꼬리표는 위치에 따라 저절로 붙고 떨어져요.
-
-없는 기능을 「지금 되는 것」에 쓰지 않아요. 실제로 나간 것만 옮겨요.
-
-## 그림
-
-첫 화면의 폰 그림은 HTML로 직접 그렸어요. 장부 이름·사람·가게·금액은 모두 지어낸 예시예요. 실제 가족 이름·금액·캡처·이메일은 넣지 않아요.
-
-## 색
-
-색·글자 크기·모서리는 앱의 `src/ui/theme.ts`(Apple 테마) 값과 같아요. 어두운 화면은 폰·PC 설정을 따라가요.
-
-## 올리는 법(GitHub Pages, 무료)
-
-공개 저장소의 Settings › Pages › 「Deploy from a branch」 › `main` / `/(root)` 를 고르면, 몇 분 뒤 `https://<GitHub 아이디>.github.io/<저장소 이름>/` 에 열려요.
+글을 고칠 곳: 가계부 저장소 `public/intro.html` · `public/privacy.html`(배포하면 새 주소에 올라가요).
